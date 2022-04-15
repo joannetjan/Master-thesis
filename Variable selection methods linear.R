@@ -1,3 +1,6 @@
+## In this file, the estimates of the variable selection methods are obtained using the maximum likelihood estimation. Furthermore,
+## the cross-validation procedure is used in order to obtain the optimal result for each variable selection method.
+
 # MLE  ------------------------------------------------------------------------------------------------------------------------
 set.seed(23)
 n.train <- 0.8
