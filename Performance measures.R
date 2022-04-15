@@ -1,3 +1,6 @@
+## The performance of the variable selection methods are evaluated and compared to the baseline model. The AIC and BIC values, and the CRPS are used
+## for comparison purposes. In the end, the wind variability are also evaluated at each height level and method.
+
 # Obtaining standard errors  ------------------------------------------------------------------------------------------------------------------------
 S <- diag(diag(optim.LL$hessian))
 S <- solve(S) # singular
