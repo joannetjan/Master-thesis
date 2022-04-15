@@ -1,5 +1,6 @@
 rm(list = ls())
-
+## In this file, the important packages are installed and the observed wind gusts at the Hamburg Weather Mast and the covariates from the COSMO-REA6 data
+## are analyzed.
 # Install necessary packages ------------------------------------------------------------------------------------------------------------------------
 library("NLP")
 library("caret")
