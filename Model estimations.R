@@ -1,3 +1,5 @@
+## A single estimation is done for each variable selection method as well as for the baseline model and the standard model
+
 # MLE  ------------------------------------------------------------------------------------------------------------------------
 first.lmbd <- 0.02
 second.lmbd <- 0.02
